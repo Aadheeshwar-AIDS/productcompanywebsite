@@ -452,7 +452,7 @@ body {
 ![output](product.png)
 
 ### People Page:
-![output](PEOPLE.png)
+![output](H.png)
 
 ### Contact Page:
 ![output](contact.png)
