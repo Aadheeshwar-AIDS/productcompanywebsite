@@ -21,7 +21,7 @@ body {
   height: 250px;
   text-align: center;
   font-size: 60px;
-  background-image: url("/static/img/banner1.jpg");
+  background-image: url("/static/img/bero.jpg");
   background-size: 100% 100%;
   margin: 0px 0px 0px 0px;
   padding-top: 150px;
@@ -66,13 +66,15 @@ body {
   border-width: 1px;
   border-color: rgb(0, 0, 0);
   border-style: solid;
+  text-align: center;
 }
 .homecontent {
   min-height: 500px;
   margin: 10px 10px 10px 10px;
+  
 }
 .homecontent h1 {
-  text-align: left;
+  text-align: center;
 }
 .homecontent img {
   float: right;
@@ -91,16 +93,17 @@ body {
 }
 
 .productcontent h1 {
-  text-align: left;
+  text-align: center;
 }
 
 .productitems {
   display: block;
+  text-align: center;
 }
 
 .productitem {
   display: inline-block;
-  width: 30%;
+  width: 20%;
   height: 250px;
   text-align: center;
 }
@@ -134,4 +137,8 @@ body {
   padding-top: 10px;
   margin: 0px 0px 0px 0px;
   color: #000000;
+}
+.content h4{
+  text-align: center;
+
 }
